@@ -2,7 +2,7 @@
 # -*-coding:utf8-*-
 # author xiaohuo [et.tw@163.com]
 from optparse import OptionParser
-import re, os, sys, time, datetime, shutil
+import re, os, sys, datetime
 
 sys.path.append(os.path.dirname(__file__))
 reload(sys)
